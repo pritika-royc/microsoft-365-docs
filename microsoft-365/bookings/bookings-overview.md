@@ -27,26 +27,36 @@ Microsoft Bookings makes scheduling and managing appointments a breeze. Bookings
 > [!NOTE]
 > The Bookings calendar is a mailbox in Exchange Online.
 
-Use Bookings to make your organization’s meetings virtual with online meetings via [Microsoft Teams](https://support.microsoft.com/office/overview-of-the-bookings-app-in-teams-7b8569e1-0c8a-444e-b712-d9968b05110b) and Skype for Business. Each appointment booked as an online meeting creates a unique meeting link that is sent to attendees so they can join via a web browser, phone dial-in, or the Skype or Teams app. Bookings is also available as an [app in Teams](https://support.microsoft.com/office/overview-of-the-bookings-app-in-teams-7b8569e1-0c8a-444e-b712-d9968b05110b), which allows you to create Bookings calendars, assign staff, and both schedule new and manage existing appointments without ever leaving Teams.
+## Watch: Introducing Microsoft Bookings 
 
-Bookings is made up of these components:
+Bookings makes it easier for small businesses to schedule and manage appointments with their customers. 
 
-- A booking page where your customers and clients can schedule appointments with the staff member who should provide the service or run the appointment. This web-based scheduling page can be shared via a direct link, your Facebook page, and even through link embedding within your website.
+*Insert New Bookings Video* 
 
-- A web app that contains a set of web-based, business-facing pages where Bookings calendar owners and administrators within an organization can define appointment types and details, manage staff schedules and availability, set business hours, and customize how appointments are scheduled. These pages allow for versatility and the ability to customize a Bookings calendar to fit the diverse needs of the person or organization.
+Use Bookings to make your organization’s meetings virtual with online meetings via [Microsoft Teams](https://support.microsoft.com/office/overview-of-the-bookings-app-in-teams-7b8569e1-0c8a-444e-b712-d9968b05110b) and Skype for Business. Each appointment booked as an online meeting creates a unique meeting link that is sent to attendees so they can join via a web browser, phone dial-in, or the Skype or Teams app. Bookings is also available as an app in Teams and Outlook, which allows you to create Booking pages, declare your availability, add team members, and both schedule new and manage existing appointments. 
+
+## Personal Bookings 
+
+Personal bookings is how you manage your own appointment timeslots, it allows you to easily configure and share your availability with your customers, clients, or colleagues. You can be in charge of your own time and avoid the back and forth of scheduling. You can also set aside time for specific activities by creating meeting types. Once you create a personal booking page, you can share a link with anyone who can then see your availability and easily schedule a time when you are free and is convenient for them. 
+*insert updated home screen image*
+
+## Shared Bookings 
+
+Shared bookings are booking pages that you create and manage for your team. They allow you to invite your team members to let your customers book time with you and your team. 
+
+It is made up of these components: 
+
+A booking page where your customers and clients can schedule appointments with the staff members who should provide the service or run the appointment. This web-based booking page can be shared via a direct link, your Facebook page, and even through link embedding within your website. 
+
+A web app that contains a set of web-based, business-facing pages where Booking page owners and administrators within an organization can define appointment types and details, manage staff schedules and availability, set business hours, and customize how appointments are scheduled. These pages allow for versatility and the ability to customize a booking page to fit the diverse needs of the person or organization. 
+
 
 ## Before you begin
 
 Microsoft Bookings is available in the following subscriptions:
 
 - Office 365: A3, A5, E1, E3, E5, F1, F3, G1, G3, and G5
-- Microsoft 365: A3, A5, E1, E3, E5, F1, F3, Business Basic, Business Standard, Business Premium
-
-## Watch: Introducing Microsoft Bookings
-
-> [!VIDEO https://www.youtube.com/embed/G2HOsM767Sw]
-
-Bookings makes it easier for small businesses to schedule and manage appointments with their customers.
+- Microsoft 365: A3, A5, E1, E3, E5, F1, F3, Business Basic, Business Standard, Business Premium, Teams Essentials, Teams Premium 
 
 ## Next steps
 
