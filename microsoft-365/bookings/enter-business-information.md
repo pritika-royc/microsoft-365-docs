@@ -1,5 +1,5 @@
 ---
-title: "Enter your Bookings business information"
+title: "Create a shared booking page"
 ms.author: kwekua
 author: kwekuako
 manager: scotv
